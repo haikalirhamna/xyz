@@ -1,0 +1,6 @@
+html, body {
+  overflow: hidden;
+}
+button, i, a {
+  cursor: pointer;
+}
